@@ -6,3 +6,6 @@ Repositório criado para o Desafio 01 de Projeto.
 
 
 [Criando primeiros repositórios no GitHub](https://hcode.com.br/blog/criando-primeiro-repositorio-no-github) 
+
+
+[Markdown - Basic Syntax](https://www.markdownguide.org/basic-syntax/)

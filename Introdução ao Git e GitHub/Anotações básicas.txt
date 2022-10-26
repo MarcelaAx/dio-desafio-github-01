@@ -1,0 +1,14 @@
+# Comandos básicos Git :computer: 
+
+- LS: Listar;
+- CD: Entrar em uma determinada pasta;
+- CTRL L: Limpar toda a tela;
+- MKDIR: Criar pasta dentro de outra
+
+### Link para download
+
+https://git-scm.com/downloads 
+
+
+
+- O Git Bash é um terminal estendido para otimizar o uso do Git.

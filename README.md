@@ -1,5 +1,5 @@
 # Desafio de Projeto sobre Git/GitHub da DIO
-Repositório criado para o Desafio 01 de Projeto.
+Repositório criado para o Desafio 01 de Projeto com alguns comandos iniciais.
 
 ## Links úteis
 [O que é o Git?](https://coodesh.com/blog/dicionario/o-que-e-git/)
